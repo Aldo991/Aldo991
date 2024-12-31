@@ -1,10 +1,12 @@
-## Hola me llamno Aldo 👋
+## Hola me llamno Aldo 💻
 
 ## 📖 Sobre mi
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<p>Soy técnico en programación, me apasiona mucho la computación. Me gusta poder resolver diferentes problemas que se me presentan, además de poder resolver diferentes desafíos que me ayuden a mejorar mi desarrollo profesional. Soy una persona comprometida, me gusta trabajar en equipo, me gusta poder ayudar a las personas que me rodean.</p>
+<p>Gracias a la universidad he aprendido muchos conceptos de la informática, además de poder trabajar con compañeros para realizar los trabajos prácticos que apliquen lo visto en clase.</p>
+<p>Me gusta leer, cuando me encuentro con desafíos nuevos me gusta investigar y poder aprender nuevos temas que me ayuden a encontrar una solución. </p>
 
-* 💻 Me apasiona programar diferentes sistemas
+* 💻 Me apasiona programar
 * 📚 Estudiante de Ingeniería en Sistemas de Informacion de la UTN (actualmente terminando 4to año)
 
 ##### Lenguajes de programacion:
