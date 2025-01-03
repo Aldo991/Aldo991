@@ -1,3 +1,5 @@
+![banner CV](https://github.com/user-attachments/assets/538f029e-de44-4ac4-907f-f8de4aad069a)
+
 ## Hola me llamno Aldo 💻
 
 ## 📖 Sobre mi
