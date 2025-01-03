@@ -16,7 +16,6 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
-![Handlebars](https://img.shields.io/badge/-Handlebars-000000?style=flat&logo=handlebarsdotjs)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 
 ##### Lenguajes de etiquetas
