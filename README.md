@@ -1,6 +1,6 @@
 ![banner CV](https://github.com/user-attachments/assets/538f029e-de44-4ac4-907f-f8de4aad069a)
 
-## Hola me llamno Aldo 💻
+## Hola me llamo Aldo 💻
 
 ## 📖 Sobre mi
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
